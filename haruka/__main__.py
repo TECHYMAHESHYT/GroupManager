@@ -29,9 +29,8 @@ I'm group manager bot and Anti-spam for RR Players🃏
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
-THIS BOT MADED BY @TECHYYT 
-
-SPECIAL THANKS TO @TECHYYT
+This Bot Is Maded By @Techyyt On Telegram
+Special Thx To @techyyt for Making This Bot
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
